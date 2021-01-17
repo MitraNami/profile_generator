@@ -11,7 +11,7 @@ const questions = [
   "What is your superpower? In a few words, tell us what you are amazing at!"
 ];
 
-let answers = [];
+const answers = [];
 
 const createMesg = function(ans) {
   const msg = `${ans[0]} loves listening to ${ans[2]} while ${ans[1]}, devouring ${ans[4]} 
